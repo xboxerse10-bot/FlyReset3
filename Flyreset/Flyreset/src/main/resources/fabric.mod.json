@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "flyreset",
+  "version": "${version}",
+  "name": "FlyReset",
+  "description": "Runs fly <player> false shortly after a player joins.",
+  "environment": "server",
+  "entrypoints": { "main": ["ro.flyreset.FlyReset"] },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "26.3",
+    "fabric-api": ">=0.166.2",
+    "java": ">=25"
+  }
+}

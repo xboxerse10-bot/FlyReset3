@@ -1,0 +1,1 @@
+FlyReset 2.0 Fabric 26.3 - corrected Java compilation errors. Upload contents of ZIP (not ZIP itself) to GitHub, preserving folders. Workflow auto-detects build.gradle. Download flyreset-2.0.0.jar from Actions Artifacts after successful build.
